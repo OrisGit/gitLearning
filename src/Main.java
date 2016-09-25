@@ -8,5 +8,9 @@ public class Main {
         System.out.print("Status");
         System.out.print("Status");
         System.out.print("Status");
+        System.out.print("Status");
+        System.out.print("Status");
+        System.out.print("Status");
+        System.out.print("Status");
     }
 }
